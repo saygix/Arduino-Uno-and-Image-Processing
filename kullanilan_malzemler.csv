@@ -1,0 +1,6 @@
+﻿Ad,Miktar,Bileşen
+"U2",1," Arduino Uno R3"
+"R1, R2, R3",3,"220 Ω Rezistör"
+"D1",1,"Kırmızı LED"
+"D2",1,"Sarı LED"
+"D3",1,"Yeşil LED"
