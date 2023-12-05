@@ -13,7 +13,7 @@ Bu proje, Python ve Arduino kullanarak el izleme teknolojisinin entegrasyonunu s
 
 1. Arduino kodunu Arduino IDE'yi kullanarak Arduino kartınıza yükleyin.
 2. Python kodunu çalıştırarak el izleme ve LED kontrolünü başlatın: `python el_izleme_led_kontrol.py`
-3. Visual Studio Code üzerinde Python ile çalışırken, Medipie kütüphanesini kurma işlemi sırasında bir hata ile karşılaştım ve kod çalıştırılamadı. Ancak aynı işlemi Anaconda üzerinden gerçekleştirdiğimde herhangi bir problemle karşılaşmadım. 
+3. Visual Studio Code üzerinde Python ile çalışırken, Medipie kütüphanesini kurma işlemi sırasında bir hata ile karşılaşıldı ve kod çalıştırılamadı. Ancak aynı işlemi Anaconda üzerinden gerçekleştirildiğinde herhangi bir problemle karşılaşılmadı. 
 
 ## Proje Detayları
 
