@@ -1,9 +1,8 @@
 # El İzleme ve LED Kontrol Projesi
 
 Bu proje, Python ve Arduino kullanarak el izleme teknolojisinin entegrasyonunu sağlamaktadır. Python tarafında Mediapipe kütüphanesi kullanılarak el izleme sonuçları elde edilir ve belirlenen el pozisyonlarına bağlı olarak Arduino'ya komutlar gönderilir. Arduino tarafında yazılan kod, bu komutları alarak kırmızı, yeşil ve sarı LED'leri kontrol eder.
-
-![Projenin Akış Şeması](https://github.com/saygix/Arduino-Uno-and-Image-Processing/assets/139467552/10d19e25-ae10-4ba9-bcbd-101c3fe5019c)
-
+<h3>Projenin Akış Şeması</h3>
+<img src="https://github.com/saygix/Arduino-Uno-and-Image-Processing/assets/139467552/10d19e25-ae10-4ba9-bcbd-101c3fe5019c" alt="Projenin Akış Şeması" width="500" height="300">
 ## Kurulum
 
 1. Arduino IDE'yi [buradan](https://www.arduino.cc/en/software) indirip yükleyin.
@@ -19,8 +18,8 @@ Bu proje, Python ve Arduino kullanarak el izleme teknolojisinin entegrasyonunu s
 - Python ve Mediapipe ile el izleme teknolojisinin kullanımı
 - Arduino ile seri iletişim protokolü kullanılarak LED kontrolü
 - Görüntü işleme ve fiziksel hesaplama arasındaki etkileşim
-
-![El Hareketleri Algılandığında Alınan Görüntü](https://github.com/saygix/Arduino-Uno-and-Image-Processing/assets/139467552/6a3d255d-0362-4f05-85c5-37563235d547)
+<h3>El Hareketleri Algılandığında Alınan Görüntü</h3>
+<img src="https://github.com/saygix/Arduino-Uno-and-Image-Processing/assets/139467552/6a3d255d-0362-4f05-85c5-37563235d547" alt="El Hareketleri Algılandığında Alınan Görüntü" >
 
 ## Proje Sonuçları
 
