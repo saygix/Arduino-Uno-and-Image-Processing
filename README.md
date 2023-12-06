@@ -6,7 +6,7 @@ Bu proje, Python ve Arduino kullanarak el izleme teknolojisinin entegrasyonunu s
 
 ## Kurulum
 
-1. Arduino IDE'yi [buradan](https://www.arduino.cc/en/software) indirip yükleyin.
+1. Arduino IDE'yi [buradan](https://www.arduino.cc/en/software) indirip yükleyin
 2. Python için gerekli kütüphaneleri yüklemek için terminal veya komut istemcisine şu komutu yazın: `pip install mediapipe pyserial`
 
 ## Kullanım
